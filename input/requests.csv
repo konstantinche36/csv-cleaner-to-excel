@@ -1,0 +1,21 @@
+date,name,phone,city,amount,status
+12.01.2026,Ivan Petrov,"8 (999) 123-45-67",Moscow,"1 200,50",NEW
+2026-01-13,Anna Sidorova,"+7 912 000-00-00",Kazan,"3500",InProgress
+14.01.2026,Sergey Ivanov,"+7(905)1112233",Samara,"999.99",DONE
+2026-01-15,Olga Smirnova,"",Perm,"1200",NEW
+15.01.2026,Denis Kuznetsov,"8-800-555-35-35",Moscow,"1000",NEW
+2026-01-16,Maria Volkova,"+7 999 111 22 33",Sochi,"2,5",NEW
+16.01.2026,Alexey Morozov,"8 912 123 45 67",Ufa,"1 000",DONE
+2026-01-17,Elena Orlova,"+7-900-ABC-12-34",Kazan,"1500",NEW
+17.01.2026,Pavel Nikitin,"+7 905 222 33 44",Moscow,"12 345,67",NEW
+2026-01-18,Irina Lebedeva,"7 999 111 22 33",SPb,"500",NEW
+18.01.2026,Maxim Frolov,"+7(999)999-99-99",Moscow,"",NEW
+2026-01-19,Ekaterina Pavlova,"+7 999 333 44 55",Moscow,"-10",NEW
+19.01.2026,Andrey Popov,"+7 999 444 55 66",Moscow,"100,00",DONE
+2026/01/20,Julia Kim,"+7 999 555 66 77",Moscow,"2000",NEW
+21.01.2026,Kirill Egorov,"8(912)777-88-99",Kazan,"0",NEW
+2026-01-22,Alina Petrova,"+7 912 888 99 00",Kazan,"1000000",NEW
+23.01.2026,Victor Sokolov,"+7 999 000 11 22",Moscow,"3 210,00",Done
+24.01.2026,Kristina Belova,"+7 999 000 11 2",Moscow,"123",NEW
+25.01.2026,Artem Zakharov,"+7 999 000 11 223",Moscow,"123",NEW
+bad-date,No Name,"+7 999 123 45 67",Moscow,"100",NEW
